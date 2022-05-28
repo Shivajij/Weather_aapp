@@ -1,0 +1,41 @@
+#top {
+    display: flex;
+    width: 80%;
+    margin: auto;
+    justify-content: space-between;
+    margin-top: 30px;
+    /* background-image: url("https://www.wallpapertip.com/wmimgs/101-1011693_sky-nature-wallpaper-phone-modern-creative-filter-modern.jpg"); */
+  }
+  #container {
+    width: 400px;
+    height: 400px;
+    /* background-image: url("https://images.indianexpress.com/2018/10/tamil-rain-7591.jpg"); */
+    /* background-image: url("https://www.wallpapertip.com/wmimgs/101-1011693_sky-nature-wallpaper-phone-modern-creative-filter-modern.jpg"); */
+
+  }
+  h3 {
+    text-align: center;
+    margin-top: 30px;
+    color: black;
+  }
+  
+  #search {
+    text-align: center;
+  }
+  body {
+    background-repeat: no-repeat;
+    /* background-image: url("https://www.wallpapertip.com/wmimgs/101-1011693_sky-nature-wallpaper-phone-modern-creative-filter-modern.jpg"); */
+  background-color: rgb(234, 234, 255);
+   
+  }
+  input {
+    width: 140px;
+    height: 30px;
+    border-radius: 15px;
+  }
+  button {
+    width: 140px;
+    height: 30px;
+    border-radius: 15px;
+  }
+  
